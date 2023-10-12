@@ -1,0 +1,23 @@
+# Atualizar os pacotes
+sudo apt update
+
+# Instalar o pip do Python 3
+sudo apt install python3-pip
+
+# Instalar o ambiente virtual Python 3.10
+sudo apt install python3.10-venv
+
+# Criar um ambiente virtual
+python3 -m venv endtoendyoutube_venv
+
+# Ativar o ambiente virtual
+source endtoendyoutube_venv/bin/activate
+
+# Atualizar o AWS CLI
+pip install --upgrade awscli
+
+# Instalar o Apache Airflow
+sudo pip install apache-airflow
+
+# Instalar o provedor do Apache Airflow para serviços da Amazon
+pip install apache-airflow-providers-amazon
