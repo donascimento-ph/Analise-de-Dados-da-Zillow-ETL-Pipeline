@@ -18,3 +18,17 @@ Uma vez que os dados são carregados no Amazon Redshift, o Amazon QuickSight é 
 4. Amazon QuickSight
 
 - Apache Airflow
+
+## Dashboard no Amazon QuickSight
+
+Para tornar os dados mais acessíveis e informativos, criamos um dashboard no Amazon QuickSight. Este painel oferece duas visualizações gráficas principais:
+
+1. Gráfico de Média de Preço por Quantidade de Quartos:
+
+Neste gráfico, representamos a relação entre a quantidade de quartos em um imóvel e o preço médio. Isso permite que os usuários vejam como os preços variam com base no número de quartos. A visualização ajuda na identificação de padrões, como se imóveis com mais quartos tendem a ser mais caros ou se existem exceções.
+
+2. Gráfico de Mediana de Preço por Código Postal:
+
+O segundo gráfico apresenta a mediana de preços agrupada por códigos postais. Isso fornece informações sobre como os preços imobiliários variam em diferentes áreas geográficas. A mediana é uma métrica robusta que ajuda a reduzir o impacto de valores atípicos, proporcionando uma visão mais precisa das tendências de preços em cada região.
+
+
