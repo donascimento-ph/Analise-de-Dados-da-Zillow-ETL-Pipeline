@@ -31,4 +31,8 @@ Neste gráfico, representamos a relação entre a quantidade de quartos em um im
 
 O segundo gráfico apresenta a mediana de preços agrupada por códigos postais. Isso fornece informações sobre como os preços imobiliários variam em diferentes áreas geográficas. A mediana é uma métrica robusta que ajuda a reduzir o impacto de valores atípicos, proporcionando uma visão mais precisa das tendências de preços em cada região.
 
+<img src="Analise-de-Dados-da-Zillow-ETL-Pipeline
+/DashboardQuickSight.jpg" alt="Dashboard QuickSight">
+
+
 
