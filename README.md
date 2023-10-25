@@ -18,7 +18,7 @@ Uma vez que os dados são carregados no Amazon Redshift, o Amazon QuickSight é 
 4. Amazon QuickSight
 
 - Apache Airflow
-- 
+
 ## Pipeline de ETL em Python na AWS Cloud
 
 Abaixo está um resumo detalhado do pipeline:
