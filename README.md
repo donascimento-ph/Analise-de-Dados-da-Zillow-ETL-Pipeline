@@ -43,7 +43,7 @@ Abaixo está um resumo detalhado do pipeline:
    - Os dados transformados foram carregados em um cluster Amazon Redshift, onde ficaram disponíveis para armazenamento e análise.
 
 6. **Visualização**:
-   - Conectei uma ferramenta de inteligência de negócios, o Amazon QuickSight, ao cluster Redshift, permitindo a criação de visualizações e a obtenção de insights.
+   - Conectei uma ferramenta de BI, o Amazon QuickSight, ao cluster Redshift, permitindo a criação de visualizações e a obtenção de insights.
 
 7. **Orquestração**:
    - Todo o pipeline foi orquestrado pelo Apache Airflow, que foi executado em uma instância Amazon EC2.
